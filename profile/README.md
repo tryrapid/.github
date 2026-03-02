@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tryrapid.dev/logo.svg" alt="Rapid" height="60">
+  <img src="https://tryrapid.ai/logo.svg" alt="Rapid" height="60">
 </p>
 
 <h3 align="center">Screenshot to HubSpot. In seconds.</h3>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tryrapid.dev">Website</a> •
-  <a href="https://tryrapid.dev/docs">Documentation</a> •
-  <a href="https://tryrapid.dev/blog">Blog</a> •
+  <a href="https://tryrapid.ai">Website</a> •
+  <a href="https://tryrapid.ai/docs">Documentation</a> •
+  <a href="https://tryrapid.ai/blog">Blog</a> •
   <a href="https://discord.gg/rapid">Discord</a> •
   <a href="https://twitter.com/tryrapid">Twitter</a>
 </p>
@@ -96,7 +96,7 @@ One click. Your module lands directly in your HubSpot portal, inside your theme,
 
 ## Getting Started
 
-1. Visit [tryrapid.dev](https://tryrapid.dev)
+1. Visit [tryrapid.ai](https://tryrapid.ai)
 2. Sign up for a free account (5 modules free, no credit card)
 3. Connect your HubSpot portal
 4. Upload a screenshot
@@ -111,12 +111,12 @@ One click. Your module lands directly in your HubSpot portal, inside your theme,
 | **Pro** | $49/mo | Unlimited | All levels |
 | **Agency** | $99/mo | Unlimited | All + team features |
 
-See full pricing at [tryrapid.dev/pricing](https://tryrapid.dev/pricing)
+See full pricing at [tryrapid.ai/pricing](https://tryrapid.ai/pricing)
 
 ## Community
 
-- 🌐 [Website](https://tryrapid.dev)
-- 📖 [Documentation](https://tryrapid.dev/docs)
+- 🌐 [Website](https://tryrapid.ai)
+- 📖 [Documentation](https://tryrapid.ai/docs)
 - 💬 [Discord Community](https://discord.gg/rapid)
 - 🐦 [Twitter / X](https://twitter.com/tryrapid)
 - 💼 [LinkedIn](https://linkedin.com/company/tryrapid)
@@ -134,7 +134,7 @@ Found a bug or have a feature request? [Open an issue](https://github.com/tryrap
 - **Starter:** Email support
 - **Pro & Agency:** Priority support
 
-Email: support@tryrapid.dev
+Email: support@tryrapid.ai
 
 ## About
 
