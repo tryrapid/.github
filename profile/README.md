@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  📸 <strong>Upload Screenshot</strong> &nbsp;&nbsp; → &nbsp;&nbsp; 🤖 <strong>AI Generates Module</strong> &nbsp;&nbsp; → &nbsp;&nbsp; 🚀 <strong>Deploy to HubSpot</strong>
+</p>
+
+<p align="center">
   <a href="https://tryrapid.ai"><strong>Website</strong></a> · 
   <a href="https://www.linkedin.com/company/tryrapid/"><strong>LinkedIn</strong></a> · 
   <a href="https://x.com/tryrapidai"><strong>Twitter/X</strong></a> · 
@@ -34,11 +38,6 @@
 ---
 
 ## How It Works
-
-<p align="center">
-  📸 <strong>Upload Screenshot</strong> &nbsp;&nbsp; → &nbsp;&nbsp; 🤖 <strong>AI Generates Module</strong> &nbsp;&nbsp; → &nbsp;&nbsp; 🚀 <strong>Deploy to HubSpot</strong>
-</p>
-
 
 <div align="center">
   <table>
