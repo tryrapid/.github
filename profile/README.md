@@ -1,147 +1,143 @@
 <p align="center">
-  <img src="https://tryrapid.ai/logo.svg" alt="Rapid" height="60">
+  <a href="https://tryrapid.ai">
+    <img src="https://245355651.fs1.hubspotusercontent-na2.net/hubfs/245355651/brand/assets/png/4x/logo-dark.png" alt="Rapid" width="200">
+  </a>
 </p>
 
-<h3 align="center">Screenshot to HubSpot. In seconds.</h3>
+<h3 align="center">Screenshot to HubSpot Module. In Seconds.</h3>
 
 <p align="center">
-  Upload any UI screenshot → AI generates a complete HubSpot custom module → One-click deploy to your portal.
-</p>
-
-<p align="center">
-  <a href="https://tryrapid.ai">Website</a> •
-  <a href="https://tryrapid.ai/docs">Documentation</a> •
-  <a href="https://tryrapid.ai/blog">Blog</a> •
-  <a href="https://discord.gg/rapid">Discord</a> •
-  <a href="https://twitter.com/tryrapid">Twitter</a>
+  No Figma. No code. Just upload and deploy.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-public%20beta-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/platform-HubSpot%20CMS-orange" alt="Platform">
-  <img src="https://img.shields.io/badge/license-proprietary-blue" alt="License">
+  <a href="https://tryrapid.ai"><strong>Website</strong></a> · 
+  <a href="https://www.linkedin.com/company/tryrapid/"><strong>LinkedIn</strong></a> · 
+  <a href="https://x.com/tryrapidai"><strong>Twitter/X</strong></a> · 
+  <a href="https://youtube.com/@tryrapidai"><strong>YouTube</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Public%20Beta-10B981?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Platform-HubSpot%20CMS-FF7A59?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/AI-Powered-2563EB?style=flat-square" alt="AI Powered">
 </p>
 
 ---
 
 ## What is Rapid?
 
-Rapid is an AI-powered development tool that converts any UI screenshot into a production-ready HubSpot custom module — complete with HTML, `fields.json`, and HubL bindings. No Figma required. No coding needed.
+**Rapid** is an AI-powered tool that converts any UI screenshot into a production-ready **HubSpot custom module** — complete with HTML, `fields.json`, and HubL bindings. One click to deploy directly to your HubSpot portal.
 
-Built for HubSpot developers, agencies, and anyone who wants to build on HubSpot CMS faster.
+> Upload a screenshot. Get a module. Deploy to HubSpot. That's it.
 
-## The Problem
-
-Building HubSpot custom modules is slow and repetitive:
-
-- Writing `fields.json` by hand for every module
-- Creating HTML templates with HubL variable bindings
-- Debugging field references and module structure
-- Repeating the same boilerplate for buttons, images, and section settings
-- A single module can take 2-4 hours of manual work
-
-## The Solution
-
-With Rapid, the entire process takes **60 seconds**:
-
-```
-Upload Screenshot → AI Generates Module → Deploy to HubSpot
-```
-
-That's it. Three steps. One minute.
+---
 
 ## How It Works
 
-**1. Upload any screenshot**
-Drop any UI screenshot — from Dribbble, Figma exports, client mockups, or even hand-drawn sketches.
+<p align="center">
+  📸 <strong>Upload Screenshot</strong> &nbsp;&nbsp; → &nbsp;&nbsp; 🤖 <strong>AI Generates Module</strong> &nbsp;&nbsp; → &nbsp;&nbsp; 🚀 <strong>Deploy to HubSpot</strong>
+</p>
 
-**2. AI generates everything**
-Rapid's AI engine analyzes your screenshot and generates:
-- Clean, semantic HTML
-- Structured `fields.json` with proper field types
-- HubL variable bindings for every dynamic element
-- Section settings and show-if conditions
 
-**3. Deploy to HubSpot**
-One click. Your module lands directly in your HubSpot portal, inside your theme, ready for content editors to use.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="30%" style="border: none;">
+        <h3>📸</h3>
+        <h4>Upload Screenshot</h4>
+        <p>Dribbble, Figma export, client mockup, even a hand-drawn sketch</p>
+      </td>
+      <td align="center" width="5%" style="border: none;">
+        <h3>→</h3>
+      </td>
+      <td align="center" width="30%" style="border: none;">
+        <h3>🤖</h3>
+        <h4>AI Generates Module</h4>
+        <p>HTML, fields.json, HubL bindings, section settings — all auto-generated</p>
+      </td>
+      <td align="center" width="5%" style="border: none;">
+        <h3>→</h3>
+      </td>
+      <td align="center" width="30%" style="border: none;">
+        <h3>🚀</h3>
+        <h4>Deploy to HubSpot</h4>
+        <p>One click. Lands in your theme. Ready for content editors.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+**Step 1** — Upload any UI screenshot (Dribbble, Figma export, client mockup, even a hand-drawn sketch)
+
+**Step 2** — Rapid's AI analyzes the design and generates complete module code:
+  - Clean, semantic HTML
+  - Structured `fields.json` with proper field types
+  - HubL variable bindings for every dynamic element
+  - Section settings & show-if conditions
+
+**Step 3** — One click. Module deploys directly into your HubSpot theme. Ready for content editors.
+
+---
+
+## Why Rapid?
+
+| Without Rapid | With Rapid |
+|:---|:---|
+| Analyze every UI element manually | Upload a screenshot |
+| Write `fields.json` by hand | AI generates all fields |
+| Add HubL bindings one by one | Bindings added automatically |
+| Upload via CLI or Design Manager | One-click deploy |
+| Debug field reference errors | Validated & error-free |
+| **2–4 hours per module** | **Under 60 seconds** |
+
+---
 
 ## Features
 
-- **Smart Screenshot Analysis** — Understands buttons, images, text blocks, navigation, cards, and any UI pattern
-- **Production-Ready fields.json** — Every field typed correctly with proper groups, labels, help text, and defaults
-- **Automatic HubL Binding** — Every field connected to HTML with module references, show-if conditions, and for-loops
-- **One-Click Deploy** — Connected to your HubSpot portal via OAuth. Pick your theme, click deploy, done
-- **Three Complexity Levels** — Basic (quick prototypes), Medium (with defaults), Advanced (full section settings)
-- **Works With Anything** — Dribbble shots, Figma exports, client PDFs, Behance designs, whiteboard photos
+🖼️ **Smart Screenshot Analysis** — Understands buttons, images, text blocks, cards, navigation — any UI pattern
 
-## Roadmap
+📐 **Production-Ready fields.json** — Every field typed correctly (text, image, link, choice, boolean, color, number) with proper groups, labels & defaults
 
-| Status | Feature |
-|--------|---------|
-| ✅ Live | Single module generation from screenshot |
-| 🔨 Building | Full page generation (multiple sections) |
-| 🔮 Planned | Complete theme generation (multiple pages) |
-| 🌟 Future | AI content population |
-| 🌟 Future | Visual field editor |
+🔗 **Automatic HubL Binding** — `module.field_name` references, show-if conditions, and for-loops generated automatically
 
-## Tech Stack
+🚀 **One-Click Deploy** — Connected to your HubSpot portal. Pick your theme. Click deploy. Done.
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | Next.js, TypeScript, Tailwind CSS |
-| AI Engine | Vision AI + Custom field generation models |
-| Backend | Node.js |
-| Platform | HubSpot CMS API, OAuth 2.0 |
-| Deployment | Vercel |
+⚡ **Three Levels** — Basic (quick prototype), Medium (with smart defaults), Advanced (section settings, visibility conditions, full customization)
 
-## Getting Started
+🎨 **Works With Any Screenshot** — Dribbble shots, Figma exports, client PDFs, Behance designs, even photos of whiteboard sketches
 
-1. Visit [tryrapid.ai](https://tryrapid.ai)
-2. Sign up for a free account (5 modules free, no credit card)
-3. Connect your HubSpot portal
-4. Upload a screenshot
-5. Deploy your first module
+---
 
-## Pricing
+## Who Is This For?
 
-| Plan | Price | Modules | Levels |
-|------|-------|---------|--------|
-| **Free** | $0 | 5 lifetime | Basic |
-| **Starter** | $19/mo | 20/month | Basic + Medium |
-| **Pro** | $49/mo | Unlimited | All levels |
-| **Agency** | $99/mo | Unlimited | All + team features |
+- **HubSpot developers** tired of writing boilerplate module code
+- **HubSpot agencies** delivering client sites faster
+- **Freelance consultants** who want to 10x their output
+- **Marketing teams** managing HubSpot CMS without a developer
 
-See full pricing at [tryrapid.ai/pricing](https://tryrapid.ai/pricing)
+---
 
-## Community
+## Links
 
-- 🌐 [Website](https://tryrapid.ai)
-- 📖 [Documentation](https://tryrapid.ai/docs)
-- 💬 [Discord Community](https://discord.gg/rapid)
-- 🐦 [Twitter / X](https://twitter.com/tryrapid)
-- 💼 [LinkedIn](https://linkedin.com/company/tryrapid)
-- 📺 [YouTube](https://youtube.com/@tryrapid)
-
-## Contributing
-
-Rapid is a closed-source SaaS product. This repository contains our public-facing documentation, changelog, and community resources.
-
-Found a bug or have a feature request? [Open an issue](https://github.com/tryrapid/rapid/issues).
-
-## Support
-
-- **Free users:** Community support via Discord
-- **Starter:** Email support
-- **Pro & Agency:** Priority support
-
-Email: support@tryrapid.ai
-
-## About
-
-Rapid is built by **[2CUBE Studio](https://2cube.studio)** — a design and development studio focused on HubSpot CMS solutions.
+| | |
+|---|---|
+| 🌐 **Website** | [tryrapid.ai](https://tryrapid.ai) |
+| 💼 **LinkedIn** | [linkedin.com/company/tryrapid](https://www.linkedin.com/company/tryrapid/) |
+| 🐦 **Twitter/X** | [x.com/tryrapidai](https://x.com/tryrapidai) |
+| 🎬 **YouTube** | [youtube.com/@tryrapidai](https://youtube.com/@tryrapidai) |
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ for the HubSpot developer community</sub>
+  <a href="https://tryrapid.ai">
+    <img src="https://245355651.fs1.hubspotusercontent-na2.net/hubfs/245355651/brand/assets/png/4x/favicon-dark.png" alt="Rapid" width="40">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Built with ❤️ for the HubSpot community</strong><br>
+  <sub>© 2026 Rapid. All rights reserved.</sub>
 </p>
