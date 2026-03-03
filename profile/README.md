@@ -46,6 +46,7 @@
         <h3>📸</h3>
         <h4>Upload Screenshot</h4>
         <p>Dribbble, Figma export, client mockup, even a hand-drawn sketch</p>
+        <br>
       </td>
       <td align="center" width="5%" style="border: none;">
         <h3>→</h3>
@@ -54,6 +55,7 @@
         <h3>🤖</h3>
         <h4>AI Generates Module</h4>
         <p>HTML, fields.json, HubL bindings, section settings — all auto-generated</p>
+        <br>
       </td>
       <td align="center" width="5%" style="border: none;">
         <h3>→</h3>
@@ -62,6 +64,7 @@
         <h3>🚀</h3>
         <h4>Deploy to HubSpot</h4>
         <p>One click. Lands in your theme. Ready for content editors.</p>
+        <br>
       </td>
     </tr>
   </table>
